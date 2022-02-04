@@ -165,7 +165,7 @@ Create `ConvertRequest` class under `Models` folder.
 
 ### REST API Test
 
-Call SOAP web service throuh REST API via Postman.
+Use Postman as REST API client to call SOAP web service throuh REST API.
 
 #### Convert *fahrenheit* to celsius
 
