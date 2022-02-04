@@ -67,7 +67,7 @@ Notes:
 The generated file `Reference.cs` under `ServiceReference` folder, includes:
 
 - `TempConvertSoap` interface
-- `TempConvertSoapChannel` inteface
+- `TempConvertSoapChannel` interface
 - `TempConvertSoapClient` class
 
 
@@ -94,7 +94,7 @@ Create an `Interfaces` folder, and create below interfaces:
 
 #### Clients
 
-Create a `Clients` fodler, and create below class:
+Create a `Clients` folder, and create below class:
 
 - `TempConvertClient` codes are extracted from `TempConvertSoapClient` class in `Reference.cs` class
 
@@ -104,7 +104,7 @@ Create a `Clients` fodler, and create below class:
 
 Create a `Repositories` folder and create below class:
 
-- `TempConvertRepository` class which implments `ITempConvertRepository` interface
+- `TempConvertRepository` class which implements `ITempConvertRepository` interface
 
 
 
@@ -148,7 +148,7 @@ Create a `Models` folder and create below class:
 
 ### Create controller class
 
-Create `TempController` class under `Controllers` folders.
+Create `TempController` class under `Controllers` folder.
 
 Exposed APIs:
 
